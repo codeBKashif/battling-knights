@@ -2,7 +2,7 @@
 
 ## About
 
-This game is a simple board game where knights can pick an power item and can fght with each other, provided inputs in moves.txt file
+This game is a simple board game where knights can pick a power item and can fight with each other, provided inputs in moves.txt file
 
 ## Development
 
